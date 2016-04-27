@@ -1,5 +1,7 @@
 # JRSwizzle
 
+	##用户行为统计
+	
 ## Description
 
 JRSwizzle is source code package that offers a single, easy, correct+consistent interface for exchanging Objective-C method implementations ("method swizzling") across many versions of Mac OS X, iOS, Objective-C and runtime architectures.
